@@ -1,0 +1,3 @@
+git init - yo chai hamle suru ma git lai yo thau ma kam gar vaneko
+git clone -"url" github online ma bhako repo jasta ko testai copy garna 
+get add. or git add filename
