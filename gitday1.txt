@@ -1,3 +1,10 @@
 git init - yo chai hamle suru ma git lai yo thau ma kam gar vaneko
 git clone -"url" github online ma bhako repo jasta ko testai copy garna 
 get add. or git add filename
+git commit -m "your msg"
+GIT PUSH
+____________
+GIT branch
+----------------
+git checkout "branch_name"- will switch to another branch
+git checkout -b branch_name - will create new branch
