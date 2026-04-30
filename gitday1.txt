@@ -9,3 +9,4 @@ GIT branch
 git checkout "branch_name"- will switch to another branch
 git checkout -b branch_name - will create new branch
 hellow
+hi its day 4 i m learning Data analysis
